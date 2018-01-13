@@ -14,3 +14,7 @@ Front-end server
 	1. cd reactlogin
 	2. npm install
 	3. npm start
+Kafka-backend server
+	1. cd Kafka-backend
+	2. npm install
+	3. npm start
